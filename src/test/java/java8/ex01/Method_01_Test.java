@@ -25,9 +25,6 @@ public class Method_01_Test {
         	for (Person person : listPerson) {
         		somme += person.getAge();
         	}
-        		
-        		
-        	
         	return somme;
         };
     }
